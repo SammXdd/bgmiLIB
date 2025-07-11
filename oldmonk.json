@@ -1,7 +1,7 @@
 {
   "serverstatus": "true",
   "noticemode": "true",
-  "dataclearmode": "true",
+  "dataclearmode": "false",
   "servermessage": "Wait We Are Working On a new Update !",
   "opentime": "Just wait few more times 😊",
   "libs": "https://github.com/SammXdd/bgmiLIB/raw/refs/heads/main/oldmonk.zip", 
